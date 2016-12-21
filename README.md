@@ -11,6 +11,18 @@ Summary: Defines override classes that should be included with pies only if runn
 
 
 
+Current build status
+====================
+
+Linux: [![Circle CI](https://circleci.com/gh/conda-forge/pies2overrides-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/pies2overrides-feedstock)
+OSX: [![TravisCI](https://travis-ci.org/conda-forge/pies2overrides-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/pies2overrides-feedstock)
+Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/pies2overrides-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/pies2overrides-feedstock/branch/master)
+
+Current release info
+====================
+Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/pies2overrides/badges/version.svg)](https://anaconda.org/conda-forge/pies2overrides)
+Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/pies2overrides/badges/downloads.svg)](https://anaconda.org/conda-forge/pies2overrides)
+
 Installing pies2overrides
 =========================
 
@@ -66,18 +78,6 @@ Terminology
 
 **conda-forge** - the place where the feedstock and smithy live and work to
                   produce the finished article (built conda distributions)
-
-Current build status
-====================
-
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/pies2overrides-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/pies2overrides-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/pies2overrides-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/pies2overrides-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/pies2overrides-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/pies2overrides-feedstock/branch/master)
-
-Current release info
-====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/pies2overrides/badges/version.svg)](https://anaconda.org/conda-forge/pies2overrides)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/pies2overrides/badges/downloads.svg)](https://anaconda.org/conda-forge/pies2overrides)
 
 
 Updating pies2overrides-feedstock
